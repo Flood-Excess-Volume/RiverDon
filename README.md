@@ -14,11 +14,29 @@ Bokhove, O., Kelmanson, M., & Kent, T. (2018): On using flood-excess volume to a
 ### Some Graphical output 
 
 #### Data analysis: from depth to discharge to FEV
+
+From the ```/code``` dir, run: 
+ * ```quadrantplot_sheff.m```
+ 
+This carries out the FEV calculations and calls four plotting routines at the end of the sript:
+ * ```plot3panelerr;```
+ * ```plotFEVhT;```
+ * ```plot_h_year;```
+ * ```plot_ratingcurve;```
+ 
 ![3panel](figs/shef_3panel_err.png)
 
 #### Cost-effectiveness analysis: seasonal rainfall scenarios
 
+From the ```/code``` dir, run ```donfloodallev_auto_new.m```. Choose the season alternately:
+```
+nws = 1; % summer
+% nws = 0; % winter
+```
+
+Output:
+
 ![don summer](figs/donallev_summer.png) | ![don winter](figs/donallev_winter.png) 
 :-------------------------:|:-------------------------:
 
-A graphical overview of the fraction of the FEV captured by the two flood-storage measures, reservoirs and leaky dams in the reservoir and Upper Don areas of the Don catchment, respectively, for (a) the summer-rainfall scenarios and (b) the winter-rainfall scenarios. Stacked vertically are the respective probability distributions, relative to the associated FEV, which is fixed for all scenarios. The blue shaded areas to the left of the thick, stepped, solid line denote the fractions of the FEV mitigated per scenario, to be read horizontally (e.g., 93.3% for (S3a)). The mean FEV (winter 44.08%, summer 43.25%) over all 7 scenarios and standard deviation (winter 17.51%, summer 16.38%) are indicated by thick and thin vertical dashed lines respectively.
+*Caption: A graphical overview of the fraction of the FEV captured by the two flood-storage measures, reservoirs and leaky dams in the reservoir and Upper Don areas of the Don catchment, respectively, for (a) the summer-rainfall scenarios and (b) the winter-rainfall scenarios. Stacked vertically are the respective probability distributions, relative to the associated FEV, which is fixed for all scenarios. The blue shaded areas to the left of the thick, stepped, solid line denote the fractions of the FEV mitigated per scenario, to be read horizontally (e.g., 93.3% for (S3a)). The mean FEV (winter 44.08%, summer 43.25%) over all 7 scenarios and standard deviation (winter 17.51%, summer 16.38%) are indicated by thick and thin vertical dashed lines respectively.*
