@@ -62,9 +62,7 @@ Four three-panel graphs produced using four flood-data sets:
 :-------------------------:|:-------------------------:
 
 * Caption: Top left and right are the integrated hydrographs of River Don in Sheffield 2007 and 2019 flood events, respectively. Bottom left and right are integrated hydrographs of River Don in Rotherham 2007 and 2019 flood events, respectively. 
-Top-left: /data/Sheffield Hadsfields 2007.csv Top-right: /data/Sheffield Hadsfields 2019.csv
-Boto-left: /data/Rotherham Don 2007.csv Bottom-right: /data/Don Tesco 2019 11.csv
-*
+Data sers: top-left: /data/Sheffield Hadsfields 2007.csv ; top-right: /data/Sheffield Hadsfields 2019.csv ; bottom-left: /data/Rotherham Don 2007.csv ; bottom-right: /data/Don Tesco 2019 11.csv
 
 #### Cost-effectiveness analysis
 
