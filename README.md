@@ -44,7 +44,7 @@ nws = 1; % summer
 
 Contributors: Zheming Zhang with Onno Bokhove, extending code by Abbey Chapman (https://github.com/Rivers-Project-2018/)
 
-This work was first published in a report for the Data Science project at the University of Leeds --report upload pending.
+This work was first published in a report for the summer 2020 Data Science project at the School of Mathematics of the University of Leeds --report upload pending.
 
 The River Don is an English river mainly in South Yorkshire and the East Riding of Yorkshir. It source lies in the Pennines and the river flows eastwardly through major British cities such as Sheffield, Rotherham and Doncaste, and eventually merges into the River Ouse. The total length of River Don is 70 miles (110km) and around 1.3 million people are living along the river.
 
