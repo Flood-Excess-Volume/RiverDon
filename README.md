@@ -72,7 +72,7 @@ Eight figures are produced:
 :-------------------------:|:-------------------------:
 
 ![Figures](/Figures/sheffield%20schemes.png) |
-:-------------------------:|:-------------------------:
+:-------------------------:|
 
 * Caption: Figures 1 and 2 are hypothetical schemes for Rotherham in both 2007 and 2019 River Don flood events, Figure 3 reveals the flood mitigation schemes provided by Sheffield City Council; all of these three schemes could alleviate 100% of flood water. *
 
