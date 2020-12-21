@@ -50,10 +50,10 @@ The River Don is an English river mainly in South Yorkshire and the East Riding 
 
 ### Graphical output
 
-From the ```/Integratedcode``` directiry, run:
-* ```FEVRiverDon.py```  (by setting the bespoke input file in that cide, see the caption below).
+From the ```/Integratedcode``` directory, run:
+* ```FEVRiverDon.py```  (by setting the bespoke input file in that code, see the caption below for the relevant data file).
 
-Four three-panel graphs produced using four flood-data sets:
+The following four three-panel graphs have been produced using four relevant flood-data sets:
 
 ![Figures](/Figures/hadfields%202007.png) | ![Figures](/Figures/hadfields%202019.png)
 :-------------------------:|:-------------------------:
