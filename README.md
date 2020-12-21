@@ -64,7 +64,7 @@ Eight figures are produced:
 
 ![Figures](https://github.com/zheming-zhang/RiverDon-and-Calder/blob/main/Figures/tesco%202019%20.png)
 
-* Caption: Figures 1 and 2 are the integrated hydrographs of River Don in Sheffield 2007 and 2019 flood events respectively. Figures 3 and 4 are integrated hydrographs of River Don in Rotherham 2007 and 2019 flood events respectively.*
+* Caption: Figures 1 and 2 are the integrated hydrographs of River Don in Sheffield 2007 and 2019 flood events respectively. Figures 3 and 4 are integrated hydrographs of River Don in Rotherham 2007 and 2019 flood events respectively. *
 
 #### Cost-effectiveness analysis
 
@@ -74,7 +74,7 @@ Eight figures are produced:
 
 ![Figures](https://github.com/zheming-zhang/RiverDon-and-Calder/blob/main/Figures/sheffield%20schemes.png)
 
-* Caption: Figures 1 and 2 are hypothetical schemes for Rotherham in both 2007 and 2019 River Don flood events, Figure 3 reveals the flood mitigation schemes provided by Sheffield City Council; all of these three schemes could alleviate 100% of flood water.*
+* Caption: Figures 1 and 2 are hypothetical schemes for Rotherham in both 2007 and 2019 River Don flood events, Figure 3 reveals the flood mitigation schemes provided by Sheffield City Council; all of these three schemes could alleviate 100% of flood water. *
 
 
 
