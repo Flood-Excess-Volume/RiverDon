@@ -42,7 +42,7 @@ nws = 1; % summer
 
 ## FEV Python analysis for 2007 and 2019 flood of the River Don in Sheffield and Rotherham
 
-Contributors: Zheming Zhang with Onno Bokhove
+Contributors: Zheming Zhang with Onno Bokhove, extending code by Abbey Chapman (https://github.com/Rivers-Project-2018/)
 
 This work was first published in a report for the Data Science project at the University of Leeds --report upload pending.
 
@@ -62,7 +62,7 @@ Four three-panel graphs produced using four flood-data sets:
 :-------------------------:|:-------------------------:
 
 * Caption: Top left and right are the integrated hydrographs of River Don in Sheffield 2007 and 2019 flood events, respectively. Bottom left and right are integrated hydrographs of River Don in Rotherham 2007 and 2019 flood events, respectively. 
-Data sers: top-left: /data/Sheffield Hadsfields 2007.csv ; top-right: /data/Sheffield Hadsfields 2019.csv ; bottom-left: /data/Rotherham Don 2007.csv ; bottom-right: /data/Don Tesco 2019 11.csv
+Data sets: top-left: /data/Sheffield Hadsfields 2007.csv ; top-right: /data/Sheffield Hadsfields 2019.csv ; bottom-left: /data/Rotherham Don 2007.csv ; bottom-right: /data/Don Tesco 2019 11.csv
 
 #### Cost-effectiveness analysis
 
