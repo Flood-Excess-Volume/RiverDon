@@ -1,4 +1,4 @@
-# RiverDon
+# River Don
 
 ![doncatchment](figs/sheffield_catchment.jpg)
 
@@ -44,7 +44,7 @@ nws = 1; % summer
 
 Contributors: Zheming Zhang with Onno Bokhove
 
-## FEV analysis using Python/Excel for 2007 and 2019 floods of River Don(Rotherham and Sheffield)
+## FEV analysis using Python/Excel for 2007 and 2019 floods of River Don (Rotherham and Sheffield)
 
 This work was first published in a report for the Data Science project at the University of Leeds.
 
@@ -73,7 +73,7 @@ Eight figures are produced:
 <img src="/Figures/sheffield%20schemes.png" width="480">
 
 
-* Caption: Figures 1 and 2 are hypothetical schemes for Rotherham in both 2007 and 2019 River Don flood events, Figure 3 reveals the flood mitigation schemes provided by Sheffield City Council; all of these three schemes could alleviate 100% of flood water. *
+* Caption: Figures 1 and 2 are hypothetical schemes for Rotherham in both 2007 and 2019 River Don flood events, Figure 3 reveals the flood mitigation schemes provided by Sheffield City Council; all of these three schemes could alleviate 100% of the flood water. *
 
 
 
