@@ -56,13 +56,11 @@ From the ```/code``` directiry, run:
 
 Eight figures are produced:
 
-![Figures](/Figures/hadfields%202007.png)
+![Figures](/Figures/hadfields%202007.png) | ![Figures](/Figures/hadfields%202019.png)
+:-------------------------:|:-------------------------:
 
-![Figures](/Figures/hadfields%202019.png)
-
-![Figures](/Figures/tesco%202007.png)
-
-![Figures](/Figures/tesco%202019%20.png)
+![Figures](/Figures/tesco%202007.png) | ![Figures](/Figures/tesco%202019%20.png)
+:-------------------------:|:-------------------------:
 
 * Caption: Figures 1 and 2 are the integrated hydrographs of River Don in Sheffield 2007 and 2019 flood events respectively. Figures 3 and 4 are integrated hydrographs of River Don in Rotherham 2007 and 2019 flood events respectively. *
 
