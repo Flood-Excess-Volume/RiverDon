@@ -53,7 +53,7 @@ The River Don is an English river mainly in South Yorkshire and the East Riding 
 From the ```/code``` directiry, run:
 * ```Integratedcode``` FEVRiverDon.py (by setting the bespoke input file, i.e. TBC)
 
-Eight figures are produced:
+Four three-panel graphs produced using four flood-data sets:
 
 ![Figures](/Figures/hadfields%202007.png) | ![Figures](/Figures/hadfields%202019.png)
 :-------------------------:|:-------------------------:
@@ -61,7 +61,10 @@ Eight figures are produced:
 ![Figures](/Figures/tesco%202007.png) | ![Figures](/Figures/tesco%202019%20.png)
 :-------------------------:|:-------------------------:
 
-* Caption: Top left and right are the integrated hydrographs of River Don in Sheffield 2007 and 2019 flood events, respectively. Bottom left and right are integrated hydrographs of River Don in Rotherham 2007 and 2019 flood events, respectively. *
+* Caption: Top left and right are the integrated hydrographs of River Don in Sheffield 2007 and 2019 flood events, respectively. Bottom left and right are integrated hydrographs of River Don in Rotherham 2007 and 2019 flood events, respectively. 
+Top-left: /data/Sheffield Hadsfields 2007.csv Top-right: /data/Sheffield Hadsfields 2019.csv
+Boto-left: /data/Rotherham Don 2007.csv Bottom-right: /data/Don Tesco 2019 11.csv
+*
 
 #### Cost-effectiveness analysis
 
