@@ -24,7 +24,8 @@ This carries out the FEV calculations and calls four plotting routines at the en
  * ```plot_h_year;```
  * ```plot_ratingcurve;```
  
-![3panel](figs/shef_3panel_err.png)
+<img src="figs/shef_3panel_err.png" width="480">
+
 
 #### Cost-effectiveness analysis: seasonal rainfall scenarios
 
