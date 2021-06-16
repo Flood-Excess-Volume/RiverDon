@@ -42,9 +42,9 @@ nws = 1; % summer
 
 ## FEV Python analysis for 2007 and 2019 flood of the River Don in Sheffield and Rotherham NOTE: WORK IN PROGRESS
 
-NOTE: WORK IN PROGRESS
+See latest version in subfolder Pythoncode. Copy files therein and run rivergentest.py after choosing the parameters/river.
 
-Contributors: Zheming Zhang with Onno Bokhove, extending code by Abbey Chapman (https://github.com/Rivers-Project-2018/)
+Contributors: Onno Bokhove with Zheming Zhang, extending code by Abbey Chapman and Mary Saunders (https://github.com/Rivers-Project-2018/)
 
 This work was first published in a report for the summer 2020 Data Science project at the School of Mathematics of the University of Leeds --report upload pending.
 
