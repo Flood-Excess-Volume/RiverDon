@@ -42,11 +42,9 @@ nws = 1; % summer
 
 ## FEV Python analysis for 2007 and 2019 flood of the River Don in Sheffield and Rotherham NOTE: WORK IN PROGRESS
 
-See latest version in subfolder Pythoncode. Copy files therein and run rivergentest.py after choosing the parameters/river.
+Contributors: Onno Bokhove with Zheming Zhang, extending code by Abbey Chapman and Mary Saunders (https://github.com/Rivers-Project-2018/). This work was first published in a report for the summer 2020 Data Science project at the School of Mathematics of the University of Leeds --report upload pending.
 
-Contributors: Onno Bokhove with Zheming Zhang, extending code by Abbey Chapman and Mary Saunders (https://github.com/Rivers-Project-2018/)
-
-This work was first published in a report for the summer 2020 Data Science project at the School of Mathematics of the University of Leeds --report upload pending.
+See latest version in subfolder Pythoncode. Copy files therein and run ```rivergentest.py''' after choosing the parameters/river flood therein by setting ```(nriver,nratngc,nriveflag)'''. It has examples of River Aire flood 2015, Rver Don floods 2007/2019 at Sheffield Hadfields and Rotherham.
 
 The River Don is an English river mainly in South Yorkshire and the East Riding of Yorkshir. It source lies in the Pennines and the river flows eastwardly through major British cities such as Sheffield, Rotherham and Doncaste, and eventually merges into the River Ouse. The total length of River Don is 70 miles (110km) and around 1.3 million people are living along the river.
 
@@ -55,7 +53,7 @@ The River Don is an English river mainly in South Yorkshire and the East Riding 
 From the ```/Integratedcode``` directory, run:
 * ```FEVRiverDon.py```  (by setting the bespoke input file in that code, see the caption below for the relevant data file).
 
-The following four three-panel graphs have been produced using four relevant flood-data sets:
+The following four three-panel graphs have been produced using four relevant flood-data sets (slightly older figures; note that there are some discrepancies in values of FEVmax/min and QTmax/min to be sorted/sort it out; after running ```rivertestgen.py'''):
 
 ![Figures](/Figures/hadfields%202007.png) | ![Figures](/Figures/hadfields%202019.png)
 :-------------------------:|:-------------------------:
