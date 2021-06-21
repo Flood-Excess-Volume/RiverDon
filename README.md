@@ -1,4 +1,4 @@
-# River Don (Matlab) several river floods (Python)
+# River Don (Matlab) and several river floods (Python)
 
 ![doncatchment](figs/sheffield_catchment.jpg)
 
