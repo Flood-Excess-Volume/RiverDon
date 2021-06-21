@@ -42,7 +42,7 @@ nws = 1; % summer
 
 ## Python analysis floods: River Don 207/2019 in Sheffield/Rotherham, River Aire 2015 Leeds/Armley (WORK IN PROGRESS)
 
-Contributors: Onno Bokhove with Zheming Zhang, extending code by Abbey Chapman and Mary Saunders (https://github.com/Rivers-Project-2018/). This work was first published in a report for the summer 2020 Data Science project at the School of Mathematics of the University of Leeds --report upload pending.
+Contributors: Onno Bokhove with Zheming Zhang, extending code by Abbey Chapman and Mary Saunders (https://github.com/Rivers-Project-2018/). This work was first published in a report for the summer 2020 Data Science project at the School of Mathematics of the University of Leeds --report upload pending. Last update: 22-06-2021 by Onno.
 
 See latest version in subfolder ```Pythoncode```. Copy files therein and run ```rivergentest.py``` after choosing the parameters/river flood therein by setting ```(nriver,nratingc,nriverflag)```. It has examples of River Aire flood 2015 at Leeds/Armley, River Don floods 2007/2019 at Sheffield Hadfields and Rotherham.
 
