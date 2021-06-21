@@ -50,10 +50,10 @@ The River Don is an English river mainly in South Yorkshire and the East Riding 
 
 ### Graphical output
 
-From the ```/Integratedcode``` directory, run:
-* ```FEVRiverDon.py```  (by setting the bespoke input file in that code, see the caption below for the relevant data file).
+From the Pythoncode directory (updated version of ```/Integratedcode``` directory), run:
+* ```rivergentest.py``` (updated version of ```FEVRiverDon.py```), by setting the bespoke input ```(nriver,nratngc,nriverflag)``` in that code.
 
-The following four three-panel graphs have been produced using four relevant flood-data sets (slightly older figures; note that there are some discrepancies in values of FEVmax/min and QTmax/min to be sorted/sort it out; after running ```rivertestgen.py```):
+The following four panel graphs have been produced using four relevant flood-data sets (slightly older figures; note that there are some discrepancies in values of FEVmax/min and QTmax/min to be sorted/sort it out; after running ```rivertestgen.py```):
 
 ![Figures](/Figures/hadfields%202007.png) | ![Figures](/Figures/hadfields%202019.png)
 :-------------------------:|:-------------------------:
@@ -62,7 +62,7 @@ The following four three-panel graphs have been produced using four relevant flo
 :-------------------------:|:-------------------------:
 
 * Caption: Top left and right are the integrated hydrographs of River Don in Sheffield 2007 and 2019 flood events, respectively. Bottom left and right are integrated hydrographs of River Don in Rotherham 2007 and 2019 flood events, respectively. 
-Data sets: top-left: /data/SheffieldHadsfields2007.csv ; top-right: /data/SheffieldHadsfields 2019.csv ; bottom-left: /data/RotherhamDon2007.csv ; bottom-right: /data/DonTesco201911.csv (note that spaces in the data filenes have been removed)
+Data sets: top-left: /data/SheffieldHadsfields2007.csv ; top-right: /data/SheffieldHadsfields 2019.csv ; bottom-left: /data/RotherhamDon2007.csv ; bottom-right: /data/DonTesco201911.csv (note that spaces in the data filenes have been removed relative to the old files)
 
 #### Cost-effectiveness analysis
 
@@ -72,7 +72,7 @@ Data sets: top-left: /data/SheffieldHadsfields2007.csv ; top-right: /data/Sheffi
 <img src="/Figures/sheffield%20schemes.png" width="480">
 
 
-* Caption: Figures 1 and 2 are hypothetical schemes for Rotherham in both 2007 and 2019 River Don flood events, Figure 3 reveals the flood mitigation schemes provided by Sheffield City Council; all of these three schemes could alleviate 100% of the flood water.
+* Caption: Figures 1 and 2 are hypothetical schemes for Rotherham in both 2007 and 2019 River Don flood events, Figure 3 reveals the flood-mitigation schemes provided by Sheffield City Council; all of these three schemes could alleviate 100% of the flood water.
 
 
 
