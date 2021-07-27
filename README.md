@@ -10,6 +10,8 @@ Bokhove, O., Kelmanson, M., & Kent, T. (2018): On using flood-excess volume to a
 
 *Above figure (source: University of Sheffield https://www.sheffield.ac.uk/doncatchment/about (c) Crown Copyright/database right 2011; an Ordnance Survey/EDINA supplied service; river layer kindly licensed from the Environment Agency): The River Don around the Sheffield City region, including the upper Don catchment and the River Sheaf. In Sheffield, the Don is fed by four other rivers: the Sheaf, Loxley, Riverlin, and Porter. The Sheffield Hadfields gauge is located centrally downstream of the Sheaf.*
 
+This site contains public sector information licensed under the Open Government Licence v3.0 (data on river floods and rating curves from the Environment Agency have been used).
+
 
 ### Some Graphical output 
 
